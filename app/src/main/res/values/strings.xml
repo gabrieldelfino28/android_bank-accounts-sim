@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bank Accounts</string>
+    <string name="app_title">Bank Simulator</string>
+    <string name="valSaque">Valor para Saque</string>
+    <string name="valDep">Valor para Depósito</string>
+    <string name="switchButton">Saque/Depósito</string>
+    <string name="inCliente">Informe o nome</string>
+    <string name="inConta">Informe a conta</string>
+    <string name="inSaldo">Informe o saldo</string>
+    <string name="inDiaRen">Dia Rendimento</string>
+    <string name="inLimite">Limite</string>
+    <string name="btnCalc">Computar</string>
+    <string name="btnCad">Cadastrar</string>
+    <string name="rbEspec">Especial</string>
+    <string name="rbPoup">Poupança</string>
+    <string name="tipoC">Tipo da Conta</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="outputCad">Cadastro bem sucedido!</string>
+    <string name="outCliente">Dados Cliente</string>
+    <string name="outCreateCliente">Cliente: %s</string>
+    <string name="outSaque">Saque bem sucedido\nSaldo Atual: %.2f</string>
+    <string name="outDep">Depósito bem sucedido\nSaldo Atual: %.2f</string>
+    <string name="updateSaldo">Novo Saldo</string>
+    <string name="outUpdate">Saldo atualizado!\nSaldo Atual: %.2f</string>
+    <string name="errSaldo">Valor maior que saldo disponível!</string>
+    <string name="errLimite">Valor maior que limite disponível!</string>
+    <string name="errDep">Campo "Valor Depósito" vazio!</string>
+    <string name="errSaq">Campo "Valor Saque" vazio!</string>
+    <string name="errNull">Campos Vazios!</string>
+</resources>
